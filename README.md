@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This project focuses on how to provide functionality to our webpages/website using basic javascript. As the name suggests , this webpage allows user to play the game of rock-paper-scissors with the computer. The game ends when either the player or the computer reaches 5 points. A running score is displayed along with the result of each round up until the game ends. 
